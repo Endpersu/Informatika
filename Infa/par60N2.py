@@ -1,7 +1,0 @@
-a = (int(input("Введите первое число: ")))
-b = int(input("Введите второе число: "))
-c = int(input("Введите третье число: "))
-max = max(a, b, c)
-min = min(a, b, c)
-print(max)
-print(min)

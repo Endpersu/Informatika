@@ -107,12 +107,89 @@
     б)  34, ((12—10)*(5+7)—7)*2,   * - * - 12 10 + 5 7 7 2
     в)  9,  5-(6+(7-(8+9))),  -     5 + 6 - 7 + 8 9
     г)  3,   5-(4-(3-(2-1))),  -     5 - 4 - 3 - 2 1
-4) 
-5) 
-6) 
-7) 
-8) 
-9) 
-10) 
-11) 
-12) 
+
+
+4) a) ![image](https://github.com/user-attachments/assets/c1583549-db27-45e8-b04d-aac37f75857d)
+
+   б) ![image](https://github.com/user-attachments/assets/8ef2331f-b3ba-43ee-af36-4e4d4d405c34)
+
+   в) ![image](https://github.com/user-attachments/assets/b293517d-06dd-4228-bc1d-f7a6bffc04ec)
+
+5) ![image](https://github.com/user-attachments/assets/dc9af8fc-e174-411e-b6aa-565f7bff909a)
+
+Сказать точно, как расположены населенные пункты, невозможно
+
+
+6) ![image](https://github.com/user-attachments/assets/d1b1c577-16ba-4649-813f-9278b9bdc3ce)
+
+Матрица смежности: ![image](https://github.com/user-attachments/assets/269d1fc8-546a-4674-b843-e17158bfe685)
+
+Весомая матрица: ![image](https://github.com/user-attachments/assets/d85d7803-d098-4437-ab6f-25182d95b8cb)
+
+
+7) a) Матрица смежности: ![image](https://github.com/user-attachments/assets/c4d0356a-dcba-435f-b2e7-f1e884e5028c)
+   
+   Весомая матрица: ![image](https://github.com/user-attachments/assets/f754cb34-814b-4e11-b169-4b937f157efc)
+
+б) Матрица смежности: ![image](https://github.com/user-attachments/assets/2d9e59c3-b6d6-44bc-a010-9e553df8ffb7)
+
+Весомая матрица: ![image](https://github.com/user-attachments/assets/91655ab9-1b2f-461d-a9c0-1a0f7d948b44)
+
+в) Матрица смежности: ![image](https://github.com/user-attachments/assets/adeba136-0d33-4ad6-9547-1af1e275cda7)
+
+Весомая матрица: ![image](https://github.com/user-attachments/assets/56186cfd-7054-41f0-a507-31e51597dc99)
+
+г) Матрица смежности: ![image](https://github.com/user-attachments/assets/88953662-9c04-41db-b652-343106154e72)
+
+Весомая матрица: ![image](https://github.com/user-attachments/assets/e1aa7c48-d0f9-4530-97a7-6172f25356be)
+
+8) a) ![image](https://github.com/user-attachments/assets/ac9b76e3-fa40-466a-ac87-097682e6b7ab)
+
+б) ![image](https://github.com/user-attachments/assets/621cbe0b-0101-44cf-bcce-51415667ca83)
+
+в) ![image](https://github.com/user-attachments/assets/8b17c292-2d99-41cd-8738-bb8131bc771b)
+
+г) ![image](https://github.com/user-attachments/assets/e12483ad-66a4-4e93-8124-396e88ff53f1)
+
+9) а) ![image](https://github.com/user-attachments/assets/1ad591d3-ad6d-4e42-8a45-41b975305354)
+
+б) ![image](https://github.com/user-attachments/assets/60cb2868-927b-43b7-8751-1b78ea491b2d)
+
+в) ![image](https://github.com/user-attachments/assets/40bb6044-6e17-4d4b-b3f1-fab75466762c)
+
+г) ![image](https://github.com/user-attachments/assets/a0d8f064-28b8-4a14-89ff-ca4cff492e3c)
+
+10) а) два оптимальных маршрута, стоимость 7:
+![image](https://github.com/user-attachments/assets/17ca3897-a2a3-4639-98dc-d4fe62e87be1)
+
+б) два оптимальных маршрута, стоимость 7:
+
+![image](https://github.com/user-attachments/assets/7f7d375a-d897-4b5f-bb4d-5fbbce98d93b)
+
+
+в) стоимость 6:
+
+![image](https://github.com/user-attachments/assets/8f385406-c188-4623-af13-df1a7c1290f4)
+
+г) стоимость 8: 
+
+![image](https://github.com/user-attachments/assets/37dcdcce-32e6-48c5-be90-2356ddde9701)
+
+
+11) a)
+    
+    ![image](https://github.com/user-attachments/assets/16718cc1-7bd4-40f0-85de-45055fdd8e11)
+
+    б)
+
+    ![image](https://github.com/user-attachments/assets/1ed2ee77-4d2e-4036-8a4b-0ec2af535d81)
+    
+    в)
+
+    ![image](https://github.com/user-attachments/assets/1383ab09-fde3-4b42-9545-c9c464907a9a)
+   
+    г)
+
+    ![image](https://github.com/user-attachments/assets/10f35cba-d43f-424c-a907-fea9fde6f501)
+
+12) а) 33, б) 21, в) 22, г) 26

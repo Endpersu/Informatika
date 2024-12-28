@@ -87,8 +87,10 @@ PDF: (Portable Document Format) Может содержать как растр�
 **ЗАДАНИЯ**
 
 1. F7F18501AF16; 9551C552416; FD7E42016
-2.
-3.
+2. ![image](https://github.com/user-attachments/assets/e8f95fe4-4aca-4114-b7d1-3e69064f85c7)
+
+3.![image](https://github.com/user-attachments/assets/483d8d1d-b77b-4e63-838c-8add50d19a6d)
+
 4.
 5.
 6.

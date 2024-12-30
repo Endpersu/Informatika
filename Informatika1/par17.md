@@ -113,8 +113,12 @@ MOV (QuickTime File Format): Формат, разработанный Apple, и�
 
 **ЗАДАЧИ**
 
-1.
-2.
-3.
-4.
-5.
+1.![image](https://github.com/user-attachments/assets/4fac64c7-c104-415c-8bba-b36ace01f7e3)
+
+2.![image](https://github.com/user-attachments/assets/33dcd35e-8050-4939-8c7b-2500502988ca)
+
+3.![image](https://github.com/user-attachments/assets/325182bf-76fd-4e04-9fcc-d9fd6a012c0b)
+
+4.![image](https://github.com/user-attachments/assets/3080a09c-4696-4a02-8481-bf42391a9467)
+
+5.![image](https://github.com/user-attachments/assets/affcc14f-027a-45c6-8018-48114a774c1e)
